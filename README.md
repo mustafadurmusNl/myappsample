@@ -25,3 +25,4 @@ _This text_ is italic
 hello hello
 i missed up with work work accidently and i wanna get rid of this and start fresh from the previous state of my project
   I WORK ON FORKED REPOSITORY~~~
+EARTH DAY  AS A ISSUE PRACTICE
